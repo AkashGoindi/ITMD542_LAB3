@@ -1,12 +1,13 @@
 {
-  "name": "itmd542-lab2",
+  "name": "itmd542-lab3",
   "version": "0.0.0",
   "private": true,
   "scripts": {
     "start": "node ./bin/www",
-    "dev": "DEBUG=itmd542-lab2:* nodemon ./bin/www"
+    "dev": "DEBUG=itmd543-lab3:* nodemon ./bin/www"
   },
   "dependencies": {
+    "better-sqlite3": "^9.4.1",
     "bootstrap": "^5.3.2",
     "cookie-parser": "~1.4.6",
     "debug": "~4.3.4",
