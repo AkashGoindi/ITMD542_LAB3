@@ -52,4 +52,10 @@ During the development of this project, the transition from local file storage t
 - [https://express-validator.github.io/docs](https://express-validator.github.io/docs)
 - [https://github.com/JoshuaWise/better-sqlite3](https://github.com/JoshuaWise/better-sqlite3)
 
-*(Note: Package.json provided for Lab 3)*
+**Important Notice:** :warning:
+
+This project currently runs only on macOS due to compatibility issues with the `better-sqlite3` package on Windows. There are potential errors when attempting to run this project on Windows systems. 
+
+If you are using Windows and still wish to run this project, please be aware that you might encounter difficulties with the `better-sqlite3` package. You may need to seek alternative solutions or contribute to resolving the compatibility issues with the package.
+
+For any assistance or updates regarding Windows compatibility, feel free to reach out or monitor the project's repository for updates.
